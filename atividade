@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="PT-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade prática - curso DIO</title>
+</head>
+
+<body>
+
+    <h1 id="inicio">ATIVIDADE PRÁTICA - curso DIO</h1>
+    <hr />
+    <h2>Entendendo o que foi aprendido durante a sessão</h2>
+    <ul>
+        <li><a href="#surgimento">Surgimento do HTML</a></li>
+        <li><a href="#tags">O que são tags?</a></li>
+        <li><a href="#utilizadas">Tags mais utilizadas</a></li>
+        <li><a href="#referencias">Referências</a></li>
+    </ul>
+
+    <h1 id="surgimento">Surgimento do HTML</h1>
+    <small><a href="#inicio">(Voltar)</a></small>
+    <p>No surgimento do <strong>HTML</strong>, pude aprender a respeito dos <mark>principais personagens responsáveis
+            pelo desenvolvimento</mark>. O HTML, sigla para HyperText Markup Language, é a linguagem de marcação padrão
+        utilizada para criar e estruturar páginas na web. O HTML foi originalmente proposto por Tim Berners-Lee em 1989
+        e finalizado em 1991. Ele foi desenvolvido como parte do projeto World Wide Web, que tinha como objetivo criar
+        um sistema de informação global baseado na internet. O HTML permite que os desenvolvedores criem documentos que
+        podem ser exibidos em navegadores da web. Ele usa uma sintaxe de marcação para definir a estrutura e o conteúdo
+        de uma página web, incluindo cabeçalhos, parágrafos, listas, links, imagens e muito mais. Com o surgimento do
+        HTML, a web se tornou mais acessível e capaz de exibir informações de forma estruturada e organizada. Ao longo
+        dos anos, o HTML passou por várias atualizações e revisões para adicionar novos recursos e melhorar a forma como
+        as páginas web são criadas. A versão mais recente é o HTML5, que inclui suporte a multimídia, APIs avançadas e
+        recursos de acessibilidade. O HTML continua sendo a base fundamental da web moderna e é essencial para qualquer
+        desenvolvedor web.</p>
+
+    <h1 id="tags">O que são tags?</h1>
+    <small><a href="#inicio">(Voltar)</a></small>
+    <p>As tags são elementos fundamentais da linguagem HTML (HyperText Markup Language) que são usados para marcar e
+        definir o conteúdo em uma página da web. Elas são representadas por meio de códigos entre colchetes angulares,
+        como "<tag>". As tags servem para indicar ao navegador como exibir e estruturar o conteúdo da página, permitindo
+            a criação de títulos, parágrafos, links, imagens, listas e outros elementos. Cada tag tem um propósito
+            específico e pode conter atributos que fornecem informações adicionais sobre como o elemento deve ser
+            exibido ou se comportar. As tags abrem com um sinal de menor que (<) e fecham com um sinal de maior que (>),
+                e alguns elementos podem conter conteúdo entre a tag de abertura e a tag de fechamento. As tags são
+                essenciais para a criação de páginas web e desempenham um papel crucial na definição da estrutura e do
+                layout do conteúdo exibido em um navegador.</p>
+
+
+    <h1 id="utilizadas">Tags mais utilizadas</h1>
+    <small><a href="#inicio">(Voltar)</a></small>
+    <h1>Título Principal (h1)</h1>
+    <h2>Título Secundário (h2)</h2>
+    <h3>Título Terciário (h3)</h3>
+    <h4>Título Quaternário (h4)</h4>
+    <h5>Título Quinário (h5)</h5>
+    <h6>Título Senário (h6)</h6>
+
+    <p>Parágrafo de Texto (p)</p>
+
+    <mark>Texto Marcado (mark)</mark>
+    <br> <br>
+    <small>Texto Pequeno (small)</small>
+    <br> <br>
+    <i>Texto em Itálico (i)</i>
+    <br> <br>
+    <u>Texto Sublinhado (u)</u>
+    <br> <br>
+    <strong>Texto em Negrito (strong)</strong>
+    <p> Lista ordenada: (ol e li)</p>
+    <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+    </ol>
+    <p>Link exemplo gerado com &lt;a href="#" (onde # será o endereço)&gt;</p>
+    <a href="#">Link Exemplo (a)</a>
+    <p>Linha gerada com "&lthr/&gt;"</p>
+    <hr>
+
+    <sub>Texto Subscrito (sub)</sub>
+    <br> <br>
+    <sup>Texto Sobrescrito (sup)</sup>
+
+    <blockquote>Citação em Bloco (blockquote)</blockquote>
+
+    <font color="red">Texto com a tag Font</font>
+    <br> <br>
+    <del>Texto Excluído (del)</del>
+
+
+    <h1 id="referencias">Referências</h1>
+    <small><a href="#inicio">(Voltar)</a></small>
+
+    <p>Durante a aprendizagem, pude aprender que existem diversas documentações, tags, funcionalidades e ademais, que
+        podem ser utilizadas para realizar um estudo mais aprofundado do assunto abordado. Abaixo, segue um site
+        importante, na minha opnião, que contem conteúdo o suficiente para relembrar quando necessário.</p>
+    <ul>
+        <li><a href="https://www.w3schools.com/html/default.asp" title="Clique aqui e acesse!"
+                target="_blank">W3schools</a></li>
+    </ul>
+</body>
+
+</html>
